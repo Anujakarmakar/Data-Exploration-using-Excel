@@ -1,2 +1,2 @@
 # Data-Exploration-using-Excel
-Explored datasets using Excel tools to identify patterns, trends, and insights for better data understanding and decision-making.
+Explored and analyzed structured datasets in Excel using functions, filters, and PivotTables to uncover patterns, trends, and hidden insights that support data-driven decision-making and reporting.
